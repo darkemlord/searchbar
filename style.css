@@ -24,7 +24,7 @@ video{
 .title{
   color: white;
   position: absolute;
-  top: 10rem;
+  top: 32%;
   font-family: 'Amatic SC', cursive;
   font-size: 50px;
 }
@@ -58,7 +58,7 @@ video{
   padding: 0px;
   position: absolute;
   text-align: center;
-  top: 20rem;
+  top: 53%;
 }
 
 #results > li{
